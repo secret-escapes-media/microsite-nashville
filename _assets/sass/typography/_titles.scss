@@ -4,6 +4,10 @@
 
   // custom content headline
   font-family: $font-title-01;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: .1rem;
+  line-height: 1.15;
   &--xxxl   { font-size: $s8; }
   &--xxl    { font-size: $s7; }
   &--xl     { font-size: $s6; }

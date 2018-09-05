@@ -1,18 +1,18 @@
 # Site settings
-title: Destination Single
+title: Nashville
 client:
-  name: Client Name
-  link: "#client-name"
+  name: Nashville Convention & Visitors Corp
+  link: https://www.visitmusiccity.com/
 core-se-link: https://www.secretescapes.com/current-sales
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Honky tonks and hot chicken, songwriters and artisans – Nashville is for many, a place for dreams, a siren song to artists and creatives across the USA. And what does that mean for your travels? A hotbed of burgeoning scenes, from art to artisan crafts, envelope-pushing foodie culture and classic southern eats, and then the big ticket – the music. It echoes from dance halls and dive bars across the city, a soundtrack to a feeling of limitless opportunity. Unpick your Nashville escape here.
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/_templates/destination-single" # the subpath of your site, e.g. /blog/
-img:     "/_templates/destination-single/_assets/img"
-css:     "/_templates/destination-single/_assets/css"
-js:      "/_templates/destination-single/_assets/js"
+baseurl: "/nashville" # the subpath of your site, e.g. /blog/
+img:     "/nashville/_assets/img"
+css:     "/nashville/_assets/css"
+js:      "/nashville/_assets/js"
 
 
 # Build settings

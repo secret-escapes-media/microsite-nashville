@@ -1,32 +1,27 @@
-- id: one
-  title: Section one
-  nav-title: One
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: music
+  title: The Nashville Sound
+  nav-title: Music
+  description: Nashville is Music City. The moniker is no mistake; this is the home of country music, the birthplace of the eponymous sound, a heritage that stretches way back to the sweet gospel of the Fisk Jubilee Singers and shoots forward to chart-busting hitmakers. Head for honky-tonks and songwriter sessions and dig the Nashville sound.
 
   pois:
 
-    title: points of interest title
     items:
 
-      - id: one-first-poi
-        title: One First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: the-scene
+        title: The Scene
+        description: Nashville is a siren song to songwriters across the world, who flock here to walk in the footsteps of Johnny Cash, Loretta Lynn and Little Richard – to name just a few. The country days still echo across stalwart music houses, but Nashville nurtures new sounds in over 180 live-music venues across the city. From rock clubs like Exit/In to the irresistibly eclectic ACME Feed & Seed – where craft beer, cocktails, sushi and plenty music reaches across four floors to the rooftop of this old feed store – Nashville dances to the sound of a vibrant, healthy, and diverse music scene.
 
-      - id: one-second-poi
-        title: One Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: country-heritage
+        title: Country Heritage
+        description: The home of country music, Nashville has long drawn fans of that timeless twang to its honky tonks and dance halls. Its most famous venue, Ryman Auditorium, quickly hosted that other institution – the Grand Ole Opry – soon filling a roster with Elvis, Dolly Parton, Hank Williams, Johnny Cash and many more. The Country Music Hall of Fame is the go-to for seeing country memorabilia (blue suede shoes anyone?) and discovering the city’s musical history. The hallowed ground of the Nashville sound has to be RCA Studio B, the studio where Roy Orbison, Elvis and many more recorded some of their greatest records. Don’t miss the Johnny Cash, Willie Nelson and Patsy Cline museums for an intimate look at Nashville’s biggest stars.
 
-      - id: one-third-poi
-        title: One Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: festivals
+        title: Festivals
+        description: "Music is 24/7 in Nashville. Using any excuse to bring thousands together, the city comes alive to a packed itinerary of festivals and events. Start the year with the Jack Daniel’s Music City Midnight: New Year’s Eve celebration, or discover new talent at the Tin Pan South songwriters festival. AmericanaFest and CMA Fest promise big ticket shows of the finest country and americana sounds, whereas the free fest Live on the Green is a more intimate affair that makes any Nashville getaway complete. No matter the time of year, you’ll find an unmissable celebration of Music City’s heritage."
 
-      - id: one-fourth-poi
-        title: One Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: one-fifth-poi
-        title: One Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: stores
+        title: Stores
+        description: Music transcends the stage in Music City. Dig deep in racks of records, hunting for that elusive Charles Sheffield 45, at coveted vinyl hangouts like Fond Object, Ernest Tubb, Grimey’s and Jack White’s Third Man Records. Live instore shows are a regular feature, showcasing new music from Nashville and beyond. For those big souvenirs, head for Nashville’s famous guitar shops, where rare and wonderful vintage Fenders, Gibsons, Supros and Airlines vie for your chicken pickin’ talents. Carter Vintage Guitars and Gruhn Guitars are stalwarts of the Nashville guitar scene, having supplied fine instruments to musicians young and old for generations.
 
 
 
@@ -34,35 +29,30 @@
 
 
 
-- id: two
-  title: Section Two
-  nav-title: Two
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: food
+  title: Southern Cooking
+  nav-title: Food
+  description: Hot chicken joints, parking-lot food trucks, conceptual restaurants and liquor. Nashville has it all. The foodie scene is a vibrant, hot feast of stalwarts and modernity, a fiery mix of decades-old traditions and creative artisanship.
 
   pois:
 
-    title: points of interest title
     items:
 
-      - id: two-first-poi
-        title: Two First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: classic-eats
+        title: Classic Eats
+        description: Food for the soul, hearty eats and heritage classics await in Nashville. Southern cooking has a home in Music City, with unmissable Nashville signatures like famous lip-smacking hot chicken. Talking of which, go to the home of hot chicken – Prince’s. The original, the best, and that loooong wait. All worth it. For classic southern Meat & Threes – the stalwart go-to of meat choice and three sides – try the kitsch charm of Elliston Place Soda Shop (unchanged since the ‘30s) or ‘50s diner Swett’s. This whirlwind of heritage bites ends at BBQ; go the whole hog at local’s fave Martin’s, or sink into local’s fave Peg Leg Porker, or get your brisket on at local’s fave Edley’s – BBQ-joint loyalty is a curious affectation, but the guarantee is unmissable eats.
 
-      - id: two-second-poi
-        title: Two Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: the-chefs
+        title: The Chefs
+        description: Nashville’s blue-collar bites have not only fostered foodie curiosity, but also left a gap for more adventure, more variety, and more deliciousness. The city’s culinary scene – burgeoning, bursting, driven by boundary-pushing chefs. Try Tandy Wilson’s creative Italian-Southern fusion at City House bistro, or Sean Brock’s evolution of Southern fare at famed foodie-spot Husk. The Catbird Seat invites diners into the kitchen, serving creative tasting menus in an intimate setting. Ryan Poli’s vision is far-reaching and unique, a quality that Nashville’s rising food stars seem to embody across the city. Don’t miss this hotbed of culinary prowess.
 
-      - id: two-third-poi
-        title: Two Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: one-scotch-one-bourbon-one-beer
+        title: One scotch, One Bourbon, One Beer
+        description: It’s Tennessee, the home of Jack Daniels, the new home of bourbon – and of course you can visit that famed distillery (it’s only a day-trip away after all), but don’t miss the real taste of Nashville amongst a flurry of craft distilleries and breweries. Tap rooms and tours are sprouting city-wide, offering a chance to sample the artisanal flair of Nashville creatives. Pop down to the pioneers of Nashville’s craft beer scene, Blackstone Brewing Company, or the eco warriors at Tennessee Brew Works, or Fat Bottom, Southern Grist – the list goes on. For a whiskey trip, hometown heroes Corsair are the ones to know, with H Clark, Short Mountain, George Dickel and many more a short trip from the city.
 
-      - id: two-fourth-poi
-        title: Two Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: two-fifth-poi
-        title: Two Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: food-trucks
+        title: Food Trucks
+        description: As if Nashville’s foodie scene didn’t have enough nuance, the food trucks have rolled into town. They offer a fantastically convenient way to eat incredibly well, acting as a sounding board for creative chefs who would usually remain undiscovered in a city of brick-and-mortar dining. The choice is, well, vast; Massaman Beef at Deg Thai, Fiddler’s Biscuits at Smoke Et Al, bacon dessert from Back Nation, Korean tacos at Riffs Fine Street Foods – the list goes on. There’s maps available online and the thrill is most certainly in the hunt; and unmissable foodie reward.
 
 
 
@@ -70,35 +60,30 @@
 
 
 
-- id: three
-  title: Section Three
-  nav-title: Three
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: lifestyle
+  title: Nashville Living
+  nav-title: lifestyle
+  description: Unpick the Nashville life. Discover an art scene booming out of thick network of galleries, hop between vibrant neighbourhoods like a local, get familiar with the city’s history – live like a true Nashvillian.
 
   pois:
 
-    title: points of interest title
     items:
 
-      - id: three-first-poi
-        title: Three First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: galleries
+        title: Galleries
+        description: Nashville’s art scene displays its strengths in a network of galleries across the city. Fifth Avenue of the Arts is the epicentre of Nashville’s creative set, the downtown hub of contemporary galleries like The Arts Company and The Rymer Gallery – keystones for the wider scene. North Nashville is a distinctly more DIY, youthful landscape, with figureheads Elephant offering studio spaces and Norf Art Collective dissecting issues around gentrification and local history. Head for WeHo and visit the pioneering Art & Invention gallery, in this burgeoning, hip neighbourhood. The choice is vast; but don’t dare miss the stalwart, the Frist Art Museum, the bastion of Nashville galleries.
 
-      - id: three-second-poi
-        title: Three Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: village-life
+        title: Village Life
+        description: Nashville is a unique collection of neighbourhoods, each with a clear identity that makes any urban wonder a rare treat. Away from the honky-tonks of downtown you’ll find creative hubs and leafy suburbs, vying to be explored; historic Germantown in the north is a charming collection of boutiques and restaurants, whereas the neighbouring area around Fisk University is one of the best soul food places in Nashville. East Nashville offers boutiques and microbreweries and trendy Hillsboro is awash with book shops and cafes – don’t miss the Pancake Pantry and Fido coffee house. This is just a start; hire a B-Cycle and start your neighbourhood adventure.
 
-      - id: three-third-poi
-        title: Three Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: history
+        title: History
+        description: Nashville’s heritage is a mixed affair; a fact rather typical of the south. Opulent mansions and vast plantations display southern grandeur, at a cost well-known but no less harrowing to see. Travellers Rest Plantation is one such example, with Confederate links and slave inventories carefully exhibited. The same goes for Andrew Jackson’s Hermitage, the president’s colourful manor that now documents the individual stories of the slaves he kept. Civil War history to one side, Nashville also hosted the model of peaceful protest during the Civil Rights struggle, the famous sit-ins at venues across the city. Oh, and to top it off, there’s a 19th century replica of the Athenian Parthenon, filled with art.
 
-      - id: three-fourth-poi
-        title: Three Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: three-fifth-poi
-        title: Three Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: green-getaway
+        title: Green Getaway
+        description: Nashville isn’t one homogenous built-up expanse; quite the opposite. City planning has been moving swiftly toward protecting and introducing more and more green spaces, with ‘greenways’ connecting the many vibrant neighbourhoods of the city. The city’s B-Cycle scheme provides a great, cheap way of taking advantage of the greenways and exploring all corners of Nashville. Don’t miss stand-up paddle boarding and kayak rental offered in various locations – a perfect way to take advantage of the Tennessee waterways...
 
 
 
@@ -106,32 +91,27 @@
 
 
 
-- id: four
-  title: Section Four
-  nav-title: Four
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est! Temporibus optio unde voluptates odio aliquam rem necessitatibus placeat, maxime, explicabo reiciendis, eos. Incidunt sed nisi, alias deleniti aut porro corporis quasi possimus nulla nostrum eveniet sunt eos dolore eligendi fugit, iste quisquam soluta rem veritatis perferendis fugiat esse.
+- id: artisans
+  title: Artisans
+  nav-title: Artisans
+  description: Nashville is a city of makers. Iconic design and irresistible fashion have a home in Music City, where DIY culture is fostered and craftsmanship prized. Discover the artisans of Nashville, pushing the envelope of design.
 
   pois:
 
-    title: points of interest title
     items:
 
-      - id: four-first-poi
-        title: Four First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: fashion
+        title: Fashion
+        description: Nashville is a cool city; that’s unmistakable. One clear signifier is what everyone is wearing. Get the Nashville uniform from a selection of burgeoning designers, pulling the thread on the rhinestone and cowboy boot tropes that are shamefully associated with the city. Instead, handmade leather jackets from Atelier Savas reinvent a timeless southern staple, luxury designs from Cavanagh Baker are made-to-measure only at her Nashville studio, and handmade, Italian leather shoes at Peter Nappi – family-run since 1904 – are an artisanal institution. Each neighbourhood fosters a wealth of boutiques – take home your Nashville style.
 
-      - id: four-second-poi
-        title: Four Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: printing
+        title: Printing
+        description: The iconic bill posters of mid-century America, those depicting Duke Ellington, Louis Armstrong, Elvis Presley – alongside bread and butter bills for coffee and gas – well, they all hark back to one famous letterpress; Hatch Show Print. From the ‘20s through the ‘50s, Hatch Show Print was the go-to poster press for Nashville’s music scene, a perfect marriage of bold colours, firm typefaces and hand-carved images of the greats. The legacy continues, inspiring printing presses across the city to continue the craft. Isle of Printing and Sawtooth Print Shop continue to set the presses on uniquely Nashville designs.
 
-      - id: four-third-poi
-        title: Four Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: makers
+        title: Makers
+        description: There’s something in the air in Nashville; creativity booms, and extends beyond the realms of music, food, and fashion. The independent makers scene is flourishing, with careful craftspeople pushing handmade, artisanal offerings and turning Nashville into a wonderfully unique place. Electra Eggleston’s eccentric, storybook textiles, the remarkable metalwork of Ben & Liel, and Colonel Littleton’s Americana-fuelled leather goods, discover a landscape of irresistible curios and crafts that hero the creative spirit of Nashville.
 
-      - id: four-fourth-poi
-        title: Four Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-
-      - id: four-fifth-poi
-        title: Four Fifth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
+      - id: get-involved
+        title: Get Involved
+        description: The community of makers and trendsetters in Nashville embody that famed southern hospitality to perfection, inviting you to try your hand at unique crafts and discover the creativity of the city. Head over to Paddywax Candle Bar for your own candle-pouring experience at the candle bar, or find your find your own treasure at Porter Flea. With a focus on local, handmade goods, it’s a great spot for discovering Nashville’s makers. If fashion is your life, don’t miss Nashville Fashion Week, where up-and-coming designers showcase the unique style of Music City.
