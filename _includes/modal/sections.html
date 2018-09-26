@@ -14,7 +14,13 @@
           <div class="js-close-modal modal__close"></div>
           <div class="js-modal-nav modal__nav modal__nav--next" data-nav-direction="next"></div>
           <div class="js-modal-nav modal__nav modal__nav--previous" data-nav-direction="previous"></div>
-          <div class="bg-img bg-img--16-9" style="background-image: url('{{site.img}}/content/{{section.id}}/{{item.id}}.jpg');"></div>
+          {% if item.video %}
+            <div class="video-holder">
+              <iframe src="https://www.youtube.com/embed/{{item.video}}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            </div>
+          {% else %}
+            <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{section.id}}/{{item.id}}.jpg');"></div>
+          {% endif %}
           <div class="modal__content">
             <h3 class="title title--lg text--center">{{item.title}}</h3>
             <p class="space--sm text--lg">{{item.description}}</p>
