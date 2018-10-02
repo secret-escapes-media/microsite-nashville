@@ -14,5 +14,14 @@
   price: 70
   price-description: per person - based on 2 persons
   saved: 66
-  expires: 2018/10/02
+  expires: 2018/10/09
   link: https://www.secretescapes.com/boutique-nashville-luxury-hotel-near-music-row-hutton-hotel-nashville-tennessee/sale?utm_source=SE_media&utm_medium=Nashville&utm_campaign=October2018
+
+- id: omni-nashville-hotel
+  title: Omni Nashville Hotel
+  location: Nashville, Tennessee
+  description: A four-star stay in downtown Nashville at a modern hotel designed to express the vibrant Music City culture
+  price: 78
+  price-description: per person - based on 2 persons
+  expires: 2018/10/05
+  link: https://www.secretescapes.com/omni-nashville-hotel-nashville-tennessee/sale?gce_hpp=1&utm_source=SE_media&utm_medium=Nashville&utm_campaign=October2018
