@@ -10,14 +10,12 @@
     {% for section in site.data.sections %}
       {% for item in section.pois.items %}
 
-        <div class="modal modal--series is-closed" data-modal-id="{{item.id}}" data-modal-group="{{section.id}}">
+        <div class="modal modal--series is-closed" data-modal-id="{{item.id}}" data-modal-group="{{section.id}}"{% if item.video %}data-video-content="{{item.video}}"{% endif %}>
           <div class="js-close-modal modal__close"></div>
           <div class="js-modal-nav modal__nav modal__nav--next" data-nav-direction="next"></div>
           <div class="js-modal-nav modal__nav modal__nav--previous" data-nav-direction="previous"></div>
           {% if item.video %}
-            <div class="video-holder">
-              <iframe src="https://www.youtube.com/embed/{{item.video}}?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-            </div>
+            <div class="video-holder js-video-holder bg--black"></div>
           {% else %}
             <div class="bg-img bg-img--3-2" style="background-image: url('{{site.img}}/content/{{section.id}}/{{item.id}}.jpg');"></div>
           {% endif %}

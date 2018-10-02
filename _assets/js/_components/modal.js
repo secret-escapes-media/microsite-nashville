@@ -36,6 +36,7 @@ function modalOpen(event, modalId){
   // open modal
   modal.fadeIn('250', function(){
     $(this).removeClass('is-closed').addClass('is-open');
+    modalContentVideo.create();
   });
 }
 
@@ -51,6 +52,7 @@ function modalClose(event){
     $('.modal.is-open').removeClass('is-open').addClass('is-closed');
     // kill everything inside of video if its there
     $('.js-modal-video').empty();
+    modalContentVideo.destroy();
   });
 }
 

@@ -78,13 +78,13 @@
 }
 
 
-.banner-title {
-
-  // custom banner headline
-  font-family: $font-title-01;
-  text-transform: uppercase;
-  font-size: $s5;
-  @include bp($md){ font-size: $s7; }
-  @include bp($xl){ font-size: $s10; }
-
-}
+// .banner-title {
+//
+//   // custom banner headline
+//   font-family: $font-title-01;
+//   text-transform: uppercase;
+//   font-size: $s5;
+//   @include bp($md){ font-size: $s7; }
+//   @include bp($xl){ font-size: $s10; }
+//
+// }

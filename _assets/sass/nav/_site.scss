@@ -94,8 +94,8 @@ $nav-color:          #211e31;
     color: $white;
     transition: background-color $transition-time ease;
     white-space: nowrap;
-    &.is-current      { background-color: rgba($nav-color,.66); }
-    .no-touch &:hover { background-color: rgba($nav-color,1); }
+    &.is-current      { background-color: rgba(lighten($nav-color,7),.66); }
+    .no-touch &:hover { background-color: rgba(lighten($nav-color,7),1); }
     @include bp($nav-width-bp){
       padding-left: $s0;
       padding-right: $s0;

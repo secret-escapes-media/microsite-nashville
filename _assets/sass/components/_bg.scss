@@ -4,11 +4,10 @@
   &--white  { background-color: $white; }
   &--light  { background-color: $grey-lightest; }
   &--dark   { background-color: $grey-dark; }
+  &--black  { background-color: $black; }
   &--img    { @include background-attributes; }
   &--grey   { background-color: $grey-lighter; }
-  &--subtle {
-    background-position: center;
-  }
+  &--subtle { background-position: center; }
   &__fixed {
     position: relative;
     &-wrap {

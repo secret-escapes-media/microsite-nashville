@@ -45,9 +45,13 @@ $('.js-modal-nav').on('click', function(event) {
   switch (navDirection) {
     case 'next':
       launchNextModal();
+      modalContentVideo.destroy();
+      modalContentVideo.create();
       break;
     case 'previous':
       launchPreviousModal();
+      modalContentVideo.destroy();
+      modalContentVideo.create();
       break;
   }
 
