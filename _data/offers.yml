@@ -4,17 +4,17 @@
   description: A sophisticated Nashville getaway with serious history, featured in The New York Times and Architectural Digest
   price: 84
   price-description: per person - based on 2 persons
-  expires: 2018/10/05
+  expires: 2018/10/16
   link: https://www.secretescapes.com/buzzed-about-new-iteration-of-a-nashville-icon-noelle-nashville-tennessee/sale?gce_hpp=1&utm_source=SE_media&utm_medium=Nashville&utm_campaign=October2018
 
 - id: hutton-hotel
   title: Hutton Hotel
   location: Nashville, Tennessee
   description: A boutique luxury hotel in Nashville's West End, with breakfast, valet parking, a bottle of wine and late check-out
-  price: 70
-  price-description: per person - based on 2 persons
+  price: 140
+  price-description: per room per night
   saved: 66
-  expires: 2018/10/09
+  expires: 2018/10/16
   link: https://www.secretescapes.com/boutique-nashville-luxury-hotel-near-music-row-hutton-hotel-nashville-tennessee/sale?utm_source=SE_media&utm_medium=Nashville&utm_campaign=October2018
 
 - id: omni-nashville-hotel
@@ -23,5 +23,15 @@
   description: A four-star stay in downtown Nashville at a modern hotel designed to express the vibrant Music City culture
   price: 78
   price-description: per person - based on 2 persons
-  expires: 2018/10/05
+  expires: 2018/10/16
   link: https://www.secretescapes.com/omni-nashville-hotel-nashville-tennessee/sale?gce_hpp=1&utm_source=SE_media&utm_medium=Nashville&utm_campaign=October2018
+
+- id: luxurious-nashville-hotspot-with-a-rooftop-bar
+  title: Luxurious Nashville hotspot with a rooftop bar
+  location: Thompson Nashville, Tennessee
+  description: A sumptuous room or suite at a stylish hotspot in the heart of the country music mecca, including parking
+  price: 194
+  price-description: per room per night
+  saved: 35
+  expires: 2018/10/16
+  link: https://www.secretescapes.com/thompson-nashville-tennessee/sale-hotel?gce_hpp=1&utm_source=SE_media&utm_medium=Nashville&utm_campaign=October2018
